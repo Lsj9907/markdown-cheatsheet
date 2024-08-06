@@ -2,15 +2,15 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# 제목 1 #
 
-    Markup :  # Heading 1 #
+    Markup :  # 제목 1 #
 
     -OR-
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제목 2 ##
 
     Markup :  ## Heading 2 ##
 
@@ -18,22 +18,22 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제목 3 ###
 
     Markup :  ### Heading 3 ###
 
-#### Heading 4 ####
+#### 제목 4 ####
 
     Markup :  #### Heading 4 ####
 
 
-Common text
+일반텍스트
 
-    Markup :  Common text
+    Markup :  일반텍스트
 
-_Emphasized text_
+_일반 강조 텍스트_
 
-    Markup :  _Emphasized text_ or *Emphasized text*
+    Markup :  _일반 강조 텍스트_ or *일반 강조 텍스트*
 
 ~~Strikethrough text~~
 
